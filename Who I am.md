@@ -12,11 +12,11 @@ Welcome to my little corner of code on GitHub! 🎉
 
 🚀 Currently immersed in the exciting world of modern technologies, frameworks, and tools to build amazing applications.
 
-### Ce que je fais 💼
+### What I do 💼
 
-🌐 **Développement Web :** Enthusiastic about crafting responsive, stylish, and intuitive websites. Front-end, back-end—I enjoy it all!
+🌐 **Web Development  :** Enthusiastic about crafting responsive, stylish, and intuitive websites. Front-end, back-end—I enjoy it all!
 
-📱 **Applications Mobiles :** Building mobile apps that are not just useful but also fun to use. iOS, Android—I love both worlds!
+📱 **Mobile Applications:** Building mobile apps that are not just useful but also fun to use. iOS, Android—I love both worlds!
 
 ### My Skills 🛠️
 
